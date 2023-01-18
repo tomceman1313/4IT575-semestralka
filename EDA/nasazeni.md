@@ -2,7 +2,8 @@
 Jedná se o pohled ukazující, jak budou jednotlivé části systému rozmístěny na HW uzlech
 <h3>UML</h3>
 
-![EDA-component]![image](https://user-images.githubusercontent.com/85290372/213286733-aabe5b1a-737b-45f8-998b-83c7d9c2aced.png)
+![image](https://user-images.githubusercontent.com/85290372/213288205-ce089419-cc64-428d-a8fe-ec6862a8178f.png)
+
 
 <h2>Katalog elementů</h2>
 
