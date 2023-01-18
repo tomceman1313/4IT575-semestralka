@@ -11,9 +11,7 @@ Je třeba určit si, jakým způsobem bude probíhat testování.
   
 
 <h2>Decision</h2>
-
-
-
+Pro E2E testing bude vytvořena sada testů v nástroji Cypress.
 
 <h2>Consequences</h2>
 
