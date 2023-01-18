@@ -9,3 +9,7 @@ Jedná se o pohled ukazující, jak budou jednotlivé části systému rozmíst�
 <h3>Zařízení uživatele aplikace</h3>
 
 <h3>Webový server</h3>
+
+<h3>Aplikační server</h3>
+
+<h3>Databázový server</h3>
