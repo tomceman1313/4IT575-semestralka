@@ -11,7 +11,7 @@ Je třeba určit si, jakým způsobem bude probíhat testování.
   
 
 <h2>Decision</h2>
-Pro E2E testing bude vytvořena sada testů v nástroji Cypress. Unit testy se budou psát a spouštět pomocí frameworku [Jest](https://jestjs.io/).
+Pro E2E testing bude vytvořena sada testů v nástroji Cypress. Unit testy se budou psát a spouštět pomocí frameworku jestjs.io
 
 <h2>Consequences</h2>
 
