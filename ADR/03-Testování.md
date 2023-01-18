@@ -7,7 +7,7 @@
 Schválené
 
 <h2>Context</h2>
-
+Je třeba určit si, jakým způsobem bude probíhat testování.
   
 
 <h2>Decision</h2>
