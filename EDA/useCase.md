@@ -6,4 +6,24 @@ Prehľad funkčných požiadavkov aplikácie.
 
 <h2>Zoznam funckii aplikácie</h2>
 
-<li></li>
+<h3>Uživatel</h3>
+<li>Prohledávat události</li>
+<li>Zobrazit historii</li>
+<li>Rezervovat vstupenku
+<li>Zaplatit</li>
+<li>Zrušit rezervaci</li>
+<li>Zobrazit/tisknout vstupenku</li>
+</li>
+<li>Zobrazit dostupné vstupenky</li>
+<li>Nahlásit chybu</li>
+<li>Přihlášení/Vytvoření účtu</li>
+<li>Spravovat účet</li>
+
+<h3>Admin</h3>
+<li>Spravovat aplikaci</li>
+<li>Řešit nahlásené chyby</li>
+
+<h3>Pořadatel akce</h3>
+<li>Vytvořit událost</li>
+<li>Upravit událost</li>
+<li>Zrušit událost</li>
