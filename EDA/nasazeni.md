@@ -6,7 +6,6 @@ Jedná se o pohled ukazující, jak budou jednotlivé části systému rozmíst�
 
 <h2>Katalog elementů</h2>
 
-<h3>AAA</h5>
-<p>Zařízení uživatele aplikace</p>
+<h3>Zařízení uživatele aplikace</h3>
 
-<h3>Webový server</h5>
+<h3>Webový server</h3>
