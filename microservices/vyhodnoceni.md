@@ -6,13 +6,14 @@ Architektura byla hodnocena přiřazením váhy jednotlivých charakteristikám 
 
 | Charakteristiky  | Splňuje | Váha | Výsledek |
 | ------------- | ------------- | ------------- | ------------- |
-| Nasaditelnost | 4 |  |  |
-| Elasticita | 5 | | |
-| Škálovatelnost | 5  |  |  |
-| Odolnost |  4 |  |  |
-| Modularita | 5  |  |  |
-| Cena | 1 |  |  |
-| Výkon | 2  |  |  |
-| Spolehlivost | 4 |  |  |
-| Jednoduchost | 1 |  |  |
-| Testovatelnost | 4 |  |  |
+| Nasaditelnost | 4 | 70% | 2,8 |
+| Elasticita | 5 | 100% | 5 |
+| Škálovatelnost | 5 | 90% | 4,5 |
+| Odolnost |  4 | 80% | 3,2 |
+| Modularita | 5 | 30% | 1,5 |
+| Cena | 1 | 10% | 0,1 |
+| Výkon | 2  | 80% | 1,6 |
+| Spolehlivost | 4 | 70% | 2,8 |
+| Jednoduchost | 1 | 20% | 0,2 |
+| Testovatelnost | 4 | 70% | 2,8 |
+| Celkem | - | - | 24,5 |
