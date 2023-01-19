@@ -15,154 +15,65 @@ Architektura byla hodnocena přiřazením váhy jednotlivých charakteristikám 
 	</thead>
 	<tbody>
 		<tr>
-			<td>Dostupnost</td>
-			<td>5</td>
+			<td>Nasaditelnost</td>
+			<td>3</td>
 			<td>10%</td>
 			<td>0,5</td>
 		</tr>
+		
 		<tr>
-			<td>Kontinuita</td>
-			<td>3</td>
-			<td>30%</td>
-			<td>1,5</td>
-		</tr>
-		<tr>
-			<td>Výkonnost</td>
-			<td>5</td>
-			<td>50%</td>
-			<td>2,5</td>
-		</tr>
-		<tr>
-			<td>Recoverability</td>
+			<td>Elasticita</td>
 			<td>3</td>
 			<td>10%</td>
-			<td>0,3</td>
-		</tr>
-		<tr>
-			<td>Reliability</td>
-			<td>3</td>
-			<td>50%</td>
-			<td>1,5</td>
-		</tr>
-		<tr>
-			<td>Robustnost</td>
-			<td>4</td>
-			<td>80%</td>
-			<td>3,2</td>
+			<td>0,5</td>
 		</tr>
 		<tr>
 			<td>Škálovatelnost</td>
 			<td>5</td>
-			<td>10%</td>
-			<td>0,5</td>
-		</tr>
-		<tr>
-			<td>Elasticita</td>
-			<td>5</td>
-			<td>100%</td>
-			<td>5</td>
-		</tr>
-		<tr>
-			<td>Konfigurovatelnost</td>
-			<td>3</td>
-			<td>10%</td>
-			<td>0,3</td>
-		</tr>
-		<tr>
-			<td>Rozšiřitelnost</td>
-			<td>5</td>
-			<td>10%</td>
-			<td>0,5</td>
-		</tr>
-		<tr>
-			<td>Instalovatelnost</td>
-			<td>3</td>
-			<td>10%</td>
-			<td>0,3</td>
-		</tr>
-		<tr>
-			<td>Znovupoužitelnost</td>
-			<td>5</td>
-			<td>5%</td>
-			<td>0,25</td>
-		</tr>
-		<tr>
-			<td>Lokalizace</td>
-			<td>5</td>
-			<td>5%</td>
-			<td>0,25</td>
-		</tr>
-		<tr>
-			<td>Udržovatelnost</td>
-			<td>4</td>
-			<td>10%</td>
-			<td>0,4</td>
-		</tr>
-		<tr>
-			<td>Přenositelnost</td>
-			<td>5</td>
-			<td>10%</td>
-			<td>0,5</td>
-		</tr>
-		<tr>
-			<td>Aktualizovatelnost</td>
-			<td>5</td>
-			<td>10%</td>
-			<td>0,5</td>
-		</tr>
-		<tr>
-			<td>Podpora</td>
-			<td>2</td>
-			<td>5%</td>
-			<td>0,1</td>
-		</tr>
-		<tr>
-			<td>Zpřístupnění</td>
-			<td>3</td>
-			<td>50%</td>
+			<td>30%</td>
 			<td>1,5</td>
 		</tr>
 		<tr>
-			<td>Archivovatelnost</td>
-			<td>5</td>
-			<td>100%</td>
-			<td>5</td>
-		</tr>
-		<tr>
-			<td>Autentizace</td>
-			<td>5</td>
-			<td>100%</td>
-			<td>5</td>
-		</tr>
-		<tr>
-			<td>Autorizace</td>
-			<td>5</td>
-			<td>100%</td>
-			<td>5</td>
-		</tr>
-		<tr>
-			<td>Právní</td>
-			<td>5</td>
-			<td>80%</td>
-			<td>4</td>
-		</tr>
-		<tr>
-			<td>Soukromí</td>
+			<td>Odolnost</td>
 			<td>5</td>
 			<td>50%</td>
 			<td>2,5</td>
 		</tr>
 		<tr>
-			<td>Zabezpečení</td>
-			<td>5</td>
-			<td>80%</td>
+			<td>Modularita</td>
 			<td>4</td>
+			<td>10%</td>
+			<td>0,3</td>
 		</tr>
 		<tr>
-			<td>Použitelnost</td>
+			<td>Cena</td>
 			<td>3</td>
 			<td>50%</td>
 			<td>1,5</td>
+		</tr>
+		<tr>
+			<td>Výkon</td>
+			<td>5</td>
+			<td>80%</td>
+			<td>3,2</td>
+		</tr>
+		<tr>
+			<td>Spolehlivost</td>
+			<td>3</td>
+			<td>10%</td>
+			<td>0,5</td>
+		</tr>
+		<tr>
+			<td>Jednoduchost</td>
+			<td>1</td>
+			<td>100%</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td>Testovatelnost</td>
+			<td>2</td>
+			<td>10%</td>
+			<td>0,3</td>
 		</tr>
 		<tr>
 			<td>Souhrn</td>
