@@ -26,4 +26,8 @@ Obsahuje databázi, která slouží k ukládání veškerých dat systému.
 <li>ODBC - rozhraní pro komunikaci se SŘBD za cílem abstrakce od konkrétních databázových systémů. </li>
 <li>Databáze</li>
 
+## Popis průběhu
+
+Uživatel skrze frontend spustí událost, která pomocí mediátoru bude přesměrována na zpracování příslušnou službou.
+
 
