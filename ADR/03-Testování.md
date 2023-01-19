@@ -11,7 +11,7 @@ Je třeba určit si, jakým způsobem bude probíhat funkční testování.
   
 
 <h2>Decision</h2>
-Unit testy a integrační testy se budou psát a spouštět pomocí frameworku Jestjs.io. Systémové testy budou probíhat manuální exekucí testery, kterým budou k těmto testům předány všechny nové featury. Testeři budou mít za úkol i vytváření automatických E2E testů v nástroji Cypress, tak aby se ulevilo vývojářům. U těchto testů je potřeba, aby spolehlivě pokrývaly oblast regresních testů.
+Unit testy a integrační testy se budou psát a spouštět pomocí frameworku Jest. Systémové testy budou probíhat manuální exekucí testery, kterým budou k těmto testům předány všechny nové featury. Testeři budou mít za úkol i vytváření automatických E2E testů v nástroji Cypress, tak aby se ulevilo vývojářům. U těchto testů je potřeba, aby spolehlivě pokrývaly oblast regresních testů.
 
 <h2>Consequences</h2>
 
