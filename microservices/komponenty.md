@@ -28,3 +28,12 @@ Obsahuje databáze, které jsou propojeny s jednotlivými službami.
 <li>Databáze administrace</li>
 <li>Databáze uživatelských účtů</li>
 <li>Databáze koncertů</li>
+
+
+## Popis funkčnosti
+
+Uživatel přes rozhraní frontendu zasílá požadavky, které odbaví API server a zvolí službu, která má být použita. Každá služba má svojí vlastní databázi, čímž naplňuje chrakteristiku architektury microservices.
+
+
+
+
