@@ -3,15 +3,12 @@
 Jedná se o pohled na komponenty navrhovaného systému
 <h3>UML</h3>
 
-![micro-component](https://user-images.githubusercontent.com/73756512/212968191-d1ff011c-921f-4c30-b6ec-5bc2486a280c.jpg)
+![micro](https://user-images.githubusercontent.com/73756512/213572035-a8245205-74cf-4ae5-9694-fe816ca78055.jpg)
 
 <h2>Katalog elementů</h2>
 
 <h3>Klientská aplikace</h5>
 <p>Single-page aplikace vytvořená s využitím knihovny React, která komunikuje s backendem skrze API</p>
-
-<h3>API server</h5>
-Server sloužící i identifikaci a řízení přístupu k jednotlivým šlužbám. Vytvořen bude s využitím Node.js (stejně jako veškeré komponenty služeb).
 
 <h3>Aplikační server server</h5>
 
@@ -32,8 +29,4 @@ Obsahuje databáze, které jsou propojeny s jednotlivými službami.
 
 ## Popis funkčnosti
 
-Uživatel přes rozhraní frontendu zasílá požadavky, které odbaví API server a zvolí službu, která má být použita. Každá služba má svojí vlastní databázi, čímž naplňuje chrakteristiku architektury microservices.
-
-
-
-
+Uživatel přes rozhraní frontendu zasílá požadavky na služby, která požadavek zpracuje a vrátí odpověď. Každá služba má svojí vlastní databázi, čímž naplňuje chrakteristiku architektury microservices.
