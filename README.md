@@ -1,6 +1,6 @@
 # Semestrální projekt (4IT575)
 
-Repozitář k týmovému semestrálního projektu předmětu 4ITT575 - Softwarové architektury.
+Repozitář k týmovému semestrálnímu projektu předmětu 4ITT575 - Softwarové architektury.
 
 ## Kontent
 1.  [Zadání práce](https://github.com/tomceman1313/4IT575-semestralka/blob/main/ASSIGNMENT.md "Zadání práce")
